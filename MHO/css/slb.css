@@ -1,0 +1,79 @@
+*{
+			padding: 0;
+			margin: 0;
+		}
+		ul{
+			list-style-type: none;
+		}
+		#main{			
+			width: 100%;
+			height: 900px;
+			background: url(../images/n_in01_wrap.jpg) no-repeat top center;
+		}		
+		#in,#in a{	
+			display: block;		
+			width: 1000px;
+			height: 447px;
+			margin: 0 auto;
+			background: url(../images/n_in01.jpg) no-repeat top center;
+		}	
+		#in_in{
+			width: 100%;
+			height: 400px;
+			background: url(../images/botbg.jpg) no-repeat bottom center;
+		}
+		#in_in_in{
+			width: 1000px;
+			height: 400px;
+			margin: 0 auto;
+			background: url(../images/botbg2.jpg) no-repeat bottom center;
+		}
+		#in_in_in li{
+			display: block;
+			width: 150px;
+			height: 150px;
+			line-height: 25px;
+			color: #e1d495;
+			float: left;
+			padding: 150px 20px 0 35px;
+			font-family: 黑体;
+			font-size: 14px;
+		}
+		#footer{
+			clear: both;
+			width: 100%;
+			height: 100px;
+			background: #000;
+		}		
+		#foot{
+			clear: both;			
+			width: 800px;
+			height: 70px;
+			margin:0 auto;
+			padding-top: 30px;
+		}
+		#foot p,#foot p a{
+			text-align: center;
+			line-height: 18px;
+			text-decoration: none;
+			color:#4E4E4E;
+			font-family: 微软雅黑;
+			font-size: 12px;			
+		}
+		
+		/*------------------------------------------------------------*/
+		#header_swf {
+			float: right;
+			padding-right: 100px;
+		}
+		body{
+			font: 12px/1.5 tahoma, '\5b8b\4f53', sans-serif;
+		}
+		object[Attributes Style] {
+			width: 450px;
+			height: 125px;
+		}
+		param {
+			display: none;
+		}
+		/*------------------------------------------------------------*/
